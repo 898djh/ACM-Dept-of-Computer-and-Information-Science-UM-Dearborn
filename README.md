@@ -147,8 +147,6 @@ Each project provides hands-on experience with different aspects of reproducible
 
 ---
 
----
-
 ## 👥 Who Should Attend
 - New graduate students curious about research  
 - Research assistants looking to refine their experimental and analytical skills  
