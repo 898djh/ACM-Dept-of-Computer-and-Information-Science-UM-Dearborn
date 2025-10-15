@@ -147,10 +147,6 @@ Each project provides hands-on experience with different aspects of reproducible
 
 ---
 
-<div align="center">
-✨ *Each proposal blends hands-on experimentation with critical reflection — the heart of reproducible research.* ✨
-</div>
-
 ---
 
 ## 👥 Who Should Attend
