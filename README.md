@@ -162,5 +162,6 @@ For questions, please reach out to the **CIS ACM Student Chapter**
 
 ### ⭐ Join Us
 RSVP URL: https://forms.gle/pXo2RDwSNbaMPp898
+
 Don’t just read about research — **do it!**  
 Let’s build a culture of openness, rigor, and reproducibility in CIS research together.
