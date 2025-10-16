@@ -166,9 +166,14 @@ Let’s build a culture of openness, rigor, and reproducibility in CIS research 
 
 <div align="center">
 
-👉 **[📝 RSVP Here to Reserve Your Spot](https://forms.gle/pXo2RDwSNbaMPp898)**  
+<a href="https://forms.gle/pXo2RDwSNbaMPp898" target="_blank" style="background-color:#00274C;color:#FFCB05;padding:12px 24px;text-decoration:none;font-weight:bold;border-radius:8px;display:inline-block;">
+📝 RSVP Here to Reserve Your Spot
+</a>
 
-📍 *Friday, October 24 at 12 PM*  
+<br><br>
+
+📍 **Friday, October 24 at 12 PM**  
 💬 *Open to everyone — come and explore the world of reproducible research!*
 
 </div>
+
