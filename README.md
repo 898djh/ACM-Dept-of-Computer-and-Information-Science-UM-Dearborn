@@ -1,8 +1,9 @@
-# Association for Computing Machinery (ACM) UMDearborn
+# ACM-Dept-of-Computer-and-Information-Science-UM-Dearborn
 # 🎓 Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility
 
-**📅 Date:** Friday 11AM, October 24  
-**🏛 Hosted by:** CIS Department & ACM Student Chapter
+**📅 Date:** **Friday, October 24 at 12 PM**  
+**🏛 Hosted by:** CIS Department & ACM Student Chapter  
+**🎯 Open to:** Everyone — all students and community members are welcome!
 
 ---
 
@@ -147,10 +148,16 @@ Each project provides hands-on experience with different aspects of reproducible
 
 ---
 
-## 👥 Who Should Attend
-- New graduate students curious about research  
-- Research assistants looking to refine their experimental and analytical skills  
-- Anyone interested in learning how reproducibility shapes reliable research
+<div align="center">
+✨ *Each proposal blends hands-on experimentation with critical reflection — the heart of reproducible research.* ✨
+</div>
+
+---
+
+## 🌍 Open to Everyone
+
+This workshop welcomes **all students, faculty, and research enthusiasts** — regardless of background or experience.  
+If you’re curious about how research works, this is your chance to **learn by doing** and connect with the CIS research community.
 
 ---
 
@@ -161,7 +168,14 @@ For questions, please reach out to the **CIS ACM Student Chapter**
 ---
 
 ### ⭐ Join Us
-RSVP URL: https://forms.gle/pXo2RDwSNbaMPp898
-
 Don’t just read about research — **do it!**  
-Let’s build a culture of openness, rigor, and reproducibility in CIS research together.
+Let’s build a culture of openness, rigor, and reproducibility in CIS research together.  
+
+<div align="center">
+
+👉 **[📝 RSVP Here to Reserve Your Spot](https://forms.gle/pXo2RDwSNbaMPp898)**  
+
+📍 *Friday, October 24 at 12 PM*  
+💬 *Open to everyone — come and explore the world of reproducible research!*
+
+</div>
