@@ -1,6 +1,6 @@
 # 🎓 Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility
 
-**📅 Date:** **Friday, October 24 at 12 PM**  
+**📅 Date:** **Friday, October 24 at 11 AM**  
 **🏛 Hosted by:** CIS Department & ACM Student Chapter  
 
 ---
@@ -171,7 +171,7 @@ Let’s build a culture of openness, rigor, and reproducibility in CIS research 
 
 <br><br>
 
-📍 **Friday, October 24 at 12 PM**  
+📍 **Friday, October 24 at 11 AM**  
 💬 *Open to everyone — come and explore the world of reproducible research!*
 
 </div>
