@@ -1,4 +1,3 @@
-# ACM-Dept-of-Computer-and-Information-Science-UM-Dearborn
 # 🎓 Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility
 
 **📅 Date:** **Friday, October 24 at 12 PM**  
