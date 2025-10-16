@@ -3,7 +3,6 @@
 
 **📅 Date:** **Friday, October 24 at 12 PM**  
 **🏛 Hosted by:** CIS Department & ACM Student Chapter  
-**🎯 Open to:** Everyone — all students and community members are welcome!
 
 ---
 
